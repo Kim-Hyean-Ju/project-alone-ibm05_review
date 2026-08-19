@@ -1,1 +1,16 @@
-# project-alone-ibm05_review
+# \#  project-alone-ibm05\_review
+
+# \##  기능정리 
+
+
+
+\- 환경설정
+
+\- 회원가입
+
+\- 로그인
+
+\- 글쓰기
+
+
+
