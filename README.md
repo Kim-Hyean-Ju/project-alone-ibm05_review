@@ -1,6 +1,6 @@
-# \#  project-alone-ibm05\_review
+# project-alone-ibm05\_review
 
-# \##  기능정리 
+# 기능정리 
 
 
 
